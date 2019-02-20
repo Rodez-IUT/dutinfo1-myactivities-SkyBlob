@@ -12,4 +12,4 @@ CREATE TABLE public.activity
 INSERT INTO public.activity VALUES (1, 'Tennis de table', 'Activité loisir tennis de table');
 INSERT INTO public.activity VALUES (2, 'Théatre', 'Club de théâtre amateur');
 INSERT INTO public.activity VALUES (3, 'Musique funk', 'Groupe de musique amateur passionné de jazz fusion funk.');
-INSERT INTO public.activity VALUES (4, 'Football', 'Club de foot pour tous les ages');
+INSERT INTO public.activity VALUES (4, 'Football', 'Club de foot pour tous les ages'); 
